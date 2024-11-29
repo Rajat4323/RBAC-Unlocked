@@ -1,16 +1,15 @@
 
-# Quotify
+# RBAC Unlocked
 
 
-**Quotify** is a React-based web application designed to provide users with motivational and thought-provoking quotes. The platform integrates seamless user authentication and a dynamic quote recommendation system. It also includes robust admin functionalities for user and category management.
+**RBAC Unlocked** is a React-based web application designed to provide users with motivational and thought-provoking quotes. The platform integrates seamless user authentication and a dynamic quote recommendation system. It also includes robust admin functionalities for user and category management.
 
-[Live Demo](https://quotify-one.vercel.app/)
+[Live Demo](https://rbac-unlocked.vercel.app)
 
 ## Usage
 #### Clone the repository
 ```bash
-git clone https://github.com/Dhanush-777x/quotify.git
-cd quotify
+git clone https://github.com/Rajat4323/RBAC-Unlocked.git
 ```
 #### Install the packages
 ```bash
@@ -96,6 +95,13 @@ npm start
 
 ### Quotes API Integration:
 - API requests include a secure API key passed via headers, ensuring access control.
+
+## Contact
+
+For any questions or suggestions, feel free to contact me:
+
+Rajat Kumar
+rajatkumar020304@gmail.com
 
 
 
